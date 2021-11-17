@@ -1,2 +1,1 @@
-	
-~~Mistaken text.~~
+	Cell 1|Cell 2|Cell 3
