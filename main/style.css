@@ -1,0 +1,9 @@
+#menu-bar ul {
+    list-style: none;
+    text-align: right;
+}
+
+#menu-bar {
+    width: 100%;
+    height: 20px;
+}
